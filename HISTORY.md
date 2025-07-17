@@ -4,6 +4,12 @@
 
 Style guidance
 
+* **Legal Guidelines**: Updated guidance with no changes to future plans
+
+##### July 2025
+
+Style guidance
+
 * **About Guide**: Updated guidance for users to reflect changes in the supplementary style guide
 
 ##### July 2025
