@@ -1,3 +1,14 @@
+#### 2025
+
+##### July 2025
+
+Style guidance
+
+* **Accessibility guideline**: Removed recommendation for using images at Red Hat
+
+
+
+
 # What's new
 
 Review the history of significant updates to the _Red Hat supplementary style guide for product documentation_. You can see the full change history by reviewing the [commits](https://github.com/redhat-documentation/supplementary-style-guide/commits/main).
