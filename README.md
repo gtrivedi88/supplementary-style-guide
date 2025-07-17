@@ -1,4 +1,4 @@
-# Red Hat supplementary style guide for product documentation
+# Red Hat supplementary style guide for product
 
 ## About
 
