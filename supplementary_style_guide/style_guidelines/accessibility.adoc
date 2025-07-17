@@ -18,7 +18,7 @@ Avoid indicating direction, such as left, right, above and below, since these ha
 [[accessibility-images]]
 == Images
 
-Use text equivalents for every diagram, image, or other non-text element. Avoid using images of text instead of actual text.
+Use text equivalents for every diagram, image, or other non-text element. Avoid using images of text instead of actual text. The images are no longer used at Red Hat.
 
 Evaluation:
 
