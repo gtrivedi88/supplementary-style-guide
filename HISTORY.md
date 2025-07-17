@@ -4,6 +4,12 @@
 
 Style guidance
 
+* **About Guide**: Updated guidance for users to reflect changes in the supplementary style guide
+
+##### July 2025
+
+Style guidance
+
 * **Accessibility guideline**: Removed recommendation for using images at Red Hat
 
 
