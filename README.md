@@ -6,7 +6,7 @@ The purpose of this project is to create an official _Red Hat supplementary styl
 
 View the latest version of the guide: [Red Hat supplementary style guide for product documentation](https://redhat-documentation.github.io/supplementary-style-guide/)
 
-## Suggestions or questions?
+## Suggestions or questions
 
 If you have a suggestion or question, open an [issue](https://github.com/redhat-documentation/doc-style/issues) in this project.
 
