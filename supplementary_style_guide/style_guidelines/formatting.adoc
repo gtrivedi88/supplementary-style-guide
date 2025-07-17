@@ -8,6 +8,8 @@ Use a single command per code block for each procedure step. This approach helps
 
 By default, use bold formatting for commands in code blocks to visually distinguish the commands from their lead-in sentences and from the command prompts and example outputs. For consistency, use bold formatting for commands even when no command output is shown in the code block.
 
+awjdghahjsgrfawe
+
 [NOTE]
 ====
 To apply formatting in a code block, you must use the `quotes` link:https://docs.asciidoctor.org/asciidoc/latest/subs/apply-subs-to-blocks/[AsciiDoc substitution].
