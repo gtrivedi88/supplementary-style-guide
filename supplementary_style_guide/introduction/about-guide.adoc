@@ -1,6 +1,6 @@
 = About this guide
 
-The style and language guidance in this guide overrides or supplements some guidance provided by the link:https://www.ibm.com/docs/en/ibm-style[_IBM Style_] guide, which is the primary source of style guidance for link:https://www.redhat.com/[Red{nbsp}Hat] product and cross-product solution documentation.
+The style and language guidance in this guide overrides or supplements some guidance provided by the link:https://www.ibm.com/docs/en/ibm-style[_IBM Style_] guide, which is the primary source of style guidance for link:https://www.redhat.com/[Red{nbsp}Hat] product and cross-product solution documentation. The abou topic should also talk about the main matter of the content that you are developing,
 
 The Red{nbsp}Hat Customer Content Services team has created this guide to help ensure that Red{nbsp}Hat product documentation is clear, consistent, and cohesive. Upstream communities who want to align more closely with the standards used by Red{nbsp}Hat product documentation can also use this guide. However, some links in this guide might not be accessible for non-Red Hat associates.
 
