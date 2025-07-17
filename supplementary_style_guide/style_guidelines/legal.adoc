@@ -12,6 +12,7 @@ Avoid all references to the costs and charges of Red{nbsp}Hat products. Although
 
 [[statements-about-the-future]]
 == Future releases or plans
+There are no future plans to updat ethis repository.
 
 When possible, avoid making statements that predict future releases or plans.
 
